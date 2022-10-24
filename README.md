@@ -58,6 +58,7 @@
 * DX
 * 実世界（ Physical空間）
 * サイバー空間(Cyber空間）
+* [RPA](https://github.com/bacchi/PE-technical-note/blob/main/RPA.md)
 
 ## 情報基盤
 * 2025年の崖
@@ -83,8 +84,7 @@
 * 新型コロナウイルス感染拡大
 * 業務システム
 * 労務管理システム
-* SSL (Secure Sockets Layer）
-* TLS (Transport Layer Security）
+* SSL (Secure Sockets Layer）、TLS (Transport Layer Security）
 * EC(Electronic Commerce）
 * オンプレミスのストレージシステム
 * 情報機器の廃棄を契機とした情報漏洩
