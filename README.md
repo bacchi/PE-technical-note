@@ -43,7 +43,7 @@
 * 非決定論的なソフトウェア技術
 
 ## 情報基盤
-* シングルページ・アプリケーション（SPA）
+* [シングルページ・アプリケーション（SPA）](https://github.com/bacchi/PE-technical-note/blob/main/SinglePageApplaication.md)
 * OpenStackなどのクラウド基盤ソフトウェア
 * IaaS(Infrastructure as a Service）型のクラウド
 * VM (Virtual Machine）提供型の仮想化インフラ
