@@ -20,7 +20,7 @@
 * [分散協調連携制御](https://github.com/bacchi/PE-technical-note/blob/main/DistributedCooperativeCoordinatedControl.md)
 * [システムのシステム（Systemof Systems）](https://github.com/bacchi/PE-technical-note/blob/main/SystemOfSystems.md)
 * 要素分割
-* 顧客対応の情報システム
+* [顧客対応の情報システム](https://github.com/bacchi/PE-technical-note/blob/main/CRM.md)
 * 顧客別カスタマイゼーションと処理
 * スマートフォンのアプリ
 * 実行結果をリアルタイムに収集
