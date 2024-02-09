@@ -21,14 +21,15 @@
 * [システムのシステム（Systemof Systems）](https://github.com/bacchi/PE-technical-note/blob/main/SystemOfSystems.md)
 * 要素分割
 * [顧客対応の情報システム](https://github.com/bacchi/PE-technical-note/blob/main/CRM.md)
-* 顧客別カスタマイゼーションと処理
+* [顧客別カスタマイゼーション](https://github.com/bacchi/PE-technical-note/blob/main/CustomerCustomization.md)
+* リアルタイム処理
 * スマートフォンのアプリ
 * 実行結果をリアルタイムに収集
 * [第5世代移動通信システム](https://github.com/bacchi/PE-technical-note/blob/main/5g.md)
 * キャッシュレス決済
 * システムの非機能要件
 * キャッシュレス端末
-* QRコード
+* [QRコード](https://github.com/bacchi/PE-technical-note/blob/main/QRCode.md)
 * バーコード
 * IoT (Internet of Things）
 * IoT機器特有の性質
